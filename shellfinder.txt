@@ -1,6 +1,5 @@
 wordlist shell finder By PenjagaMushollah:)
-Greezt : SurabayaXploit - TegalXploiter -                        Jongnesia
-
+Greezt : SurabayaXploit - TegalXploiter -                      
 work.php
 black.php
 white.php
@@ -4719,3 +4718,38 @@ symlink403.php
 work.php
 hello.php
 word.php
+black.php
+blacksec.php
+siapa.php
+kamu.php.pthml
+security.php
+ilusi.php
+lol.php
+8890.php
+ucp. php
+kct. php
+kct403.php
+shellbypass.php
+mwmek.php
+findes.php
+default.php
+cot.php
+xforce.php
+is.php
+jelek.php
+ganteng.php
+ceot.php
+cepot.php
+wsopriv.php
+wso403.php
+omest.php
+omest403.php
+shellsiapa.php
+racing.php
+crotdiluar.php
+images.php
+hunter.php
+dragonforce.php
+mcc.php
+antek.php
+xilusi.php
