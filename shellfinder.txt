@@ -84,6 +84,8 @@ chan.php
 kntl.php
 losX.php
 mom.php
+Wiley.php
+Hancock.php
 sad.php
 uploads/ok.php
 upload/ok.php
